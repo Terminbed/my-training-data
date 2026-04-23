@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-23T18:19:28.739582",
+    "last_updated": "2026-04-23T19:39:48.935355",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.106"
@@ -711,7 +711,7 @@
     "p_max": 1187,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-23T18:19:28.738410",
+    "calculation_timestamp": "2026-04-23T19:39:48.934223",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -729,7 +729,7 @@
       "id": "i142355239",
       "date": "2026-04-23T17:14:22",
       "type": "Ride",
-      "name": "Threshold 2x20",
+      "name": "2x20 Threshold",
       "duration_hours": 1.9,
       "distance_km": 56.09,
       "tss": 110,
@@ -759,9 +759,9 @@
       "efficiency_factor": 1.5174825,
       "hrrc": null,
       "elevation_m": 243.0,
-      "feel": null,
-      "rpe": null,
-      "effort_response": null,
+      "feel": 3,
+      "rpe": 7,
+      "effort_response": "negative",
       "zone_distribution": {
         "hr_zones": {
           "z1_time": 3466,
