@@ -5,30 +5,11 @@ FTP: 285 W
 
 ---
 
-# CURRENT WEEK (ACTIVE)
-
-## Week 1 (in progress)
-
-- Mon: Rest / Easy + Strength
-- Tue: Completed / N/A
-- Wed: Z2 + Easy run
-- Thu: 2x20 Threshold (KEY SESSION)
-- Fri: Easy + Run + Strength
-- Sat: Group ride
-- Sun: Long Z2
-
-Focus:
-- Execute controlled starts (90–92%)
-- No surging
-- Prioritise stability over power
-
----
-
 # CORE OBJECTIVE
 
 Convert threshold from fragile → stable → durable
 
-Limiter identified:
+Limiter:
 - Poor steady-state control
 - High decoupling at threshold
 - DFA a1 instability
@@ -40,7 +21,7 @@ Limiter identified:
 ## All Threshold Work
 - First 5 min: 90–92% FTP
 - Then settle to 95%
-- Final 5–10 min: allow drift to 97% if stable
+- Final 5–10 min: allow drift to 97% ONLY if stable
 
 ## Non-negotiables
 - No surging
@@ -49,30 +30,50 @@ Limiter identified:
 
 ## Success metrics
 - VI ≤ 1.05
-- Decoupling < 5–6%
+- Decoupling ≤ 6%
 - HR smooth rise
+
+## Progression rule
+Progress ONLY if:
+- Decoupling ≤ 6%
+- VI ≤ 1.05
+- No pacing breakdown
+
+If not:
+→ Repeat the same session next week
 
 ---
 
 # INTENSITY GUIDELINES
 
 - Recovery: 55–60% FTP
-- True recovery: 50–55% FTP
-- Z2: 65% FTP
+- True recovery: 50–55%
+- Z2: 65%
 - Tempo: 85–90%
+- Sub-threshold cap: 90%
 - Threshold: 95–97%
 
 ---
 
 # WEEKLY STRUCTURE
 
-- Mon: Rest / Easy + Strength
-- Tue: Threshold (primary)
+- Mon: Rest / Strength
+- Tue: Threshold (primary session)
 - Wed: Z2 + Easy run
-- Thu: Tempo / Threshold
+- Thu: Controlled aerobic (tempo OR Z2)
 - Fri: Easy + Run + Strength
-- Sat: Group ride
+- Sat: Group ride (counts as intensity if hard)
 - Sun: Long Z2
+
+---
+
+# THURSDAY RULE (IMPORTANT)
+
+If Saturday will be hard:
+→ Thursday = Z2 only
+
+If Saturday will be easy:
+→ Thursday = Tempo / Sub-threshold
 
 ---
 
@@ -93,50 +94,42 @@ Limiter identified:
 
 ---
 
-# SESSION TIMING
-
-- Tue: PM preferred
-- Thu: flexible
-- Easy days: anytime
-
----
-
-# INDOOR VS OUTDOOR
-
-- Early block: ERG for control
-- Later block: outside for execution
-
----
-
 # BLOCK STRUCTURE
 
-## Week 1
-- Thu: 2x20 threshold
-- Sun: Long Z2
-
-## Week 2
-- Tue: 3x15 threshold
+## Week 1 (Baseline)
+- Tue: 2x20 threshold
 - Thu: 2x20 tempo
+- Sun: 90–120 min Z2
 
-## Week 3
+## Week 2 (Density)
+- Tue: 3x15 threshold
+- Thu: 3x15 tempo
+- Sun: 2h Z2
+
+## Week 3 (Extension)
 - Tue: 30 min continuous
-- Thu: 4x10 threshold
+- Thu: 1x40 @ 88–90%
+- Sun: 2–2.5h Z2
 
 ## Week 4 (Deload)
-- Tue: 3x12 threshold
-- Thu: Z2
+- Tue: 2x12 threshold
+- Thu: Z2 only
+- Sun: 90 min Z2
 
-## Week 5
+## Week 5 (Durability)
 - Tue: 2x25 threshold
-- Thu: 40 min continuous
+- Thu: 2x20 tempo
+- Sun: 2.5h Z2
 
-## Week 6
-- Tue: 2x15 threshold
-- Thu: 2x15 tempo
+## Week 6 (Stabilisation)
+- Tue: 3x12 threshold (high quality)
+- Thu: 1x30 @ 88–90%
+- Sun: 2h Z2
 
 ## Test
 - 40 min steady effort
-- Start at 95%, build only if stable
+- Start at 95%
+- Build ONLY if stable
 
 ---
 
