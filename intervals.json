@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T06:03:36.022890",
+  "generated_at": "2026-04-24T08:21:17.857018",
   "version": "3.106",
   "script_hash": "f323f1d6d720",
   "scan_hours": 72,
@@ -960,6 +960,25 @@
           "zone": 1,
           "training_load": 13.8798485,
           "decoupling": 3.7317903
+        }
+      ]
+    },
+    {
+      "activity_id": "i142471829",
+      "date": "2026-04-24",
+      "type": "Ride",
+      "name": "Recovery",
+      "interval_summary": [
+        "1x 27m16s 116bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1636s@116bpm",
+          "duration_secs": 1636,
+          "avg_hr": 116,
+          "max_hr": 131,
+          "zone": 1
         }
       ]
     }
