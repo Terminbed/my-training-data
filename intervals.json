@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T20:08:46.834958",
+  "generated_at": "2026-04-24T21:04:40.913442",
   "version": "3.106",
   "script_hash": "f323f1d6d720",
   "scan_hours": 72,
@@ -1016,6 +1016,25 @@
           "duration_secs": 513,
           "avg_hr": 111,
           "max_hr": 122,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i142657312",
+      "date": "2026-04-24",
+      "type": "Ride",
+      "name": "Manchester Cycling",
+      "interval_summary": [
+        "1x 7m7s 108bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "427s@108bpm",
+          "duration_secs": 427,
+          "avg_hr": 108,
+          "max_hr": 121,
           "zone": 1
         }
       ]
