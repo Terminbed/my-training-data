@@ -96,37 +96,37 @@ If Saturday will be easy:
 
 # BLOCK STRUCTURE
 
-## Week 1 (Baseline)
+## Week 1 (Baseline) — 27 Apr → 3 May
 - Tue: 2x20 threshold
 - Thu: 2x20 tempo
 - Sun: 90–120 min Z2
 
-## Week 2 (Density)
+## Week 2 (Density) — 4 May → 10 May
 - Tue: 3x15 threshold
 - Thu: 3x15 tempo
 - Sun: 2h Z2
 
-## Week 3 (Extension)
+## Week 3 (Extension) — 11 May → 17 May
 - Tue: 30 min continuous
 - Thu: 1x40 @ 88–90%
 - Sun: 2–2.5h Z2
 
-## Week 4 (Deload)
+## Week 4 (Deload) — 18 May → 24 May
 - Tue: 2x12 threshold
 - Thu: Z2 only
 - Sun: 90 min Z2
 
-## Week 5 (Durability)
+## Week 5 (Durability) — 25 May → 31 May
 - Tue: 2x25 threshold
 - Thu: 2x20 tempo
 - Sun: 2.5h Z2
 
-## Week 6 (Stabilisation)
+## Week 6 (Stabilisation) — 1 Jun → 7 Jun
 - Tue: 3x12 threshold (high quality)
 - Thu: 1x30 @ 88–90%
 - Sun: 2h Z2
 
-## Test
+## Test — Week of 8 Jun
 - 40 min steady effort
 - Start at 95%
 - Build ONLY if stable
