@@ -8,7 +8,7 @@
 - **Training Age:** 4 years (consistent)
 
 ## 2. Thresholds & Zones
-- **Cycling FTP:** 285W (Indoor/Outdoor matched)
+- **Cycling FTP:** 275W (Indoor/Outdoor matched)
 - **Resting HR:** 37 bpm
 - **Max HR:** 193 bpm
 - **LTHR (Lactate Threshold):** 173 bpm
