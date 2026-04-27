@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T15:18:22.278298",
+  "generated_at": "2026-04-27T17:02:07.576269",
   "version": "3.108",
   "script_hash": "41b49b1747e6",
   "scan_hours": 72,
@@ -1438,6 +1438,25 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i143438628",
+      "date": "2026-04-27",
+      "type": "Ride",
+      "name": "Stockport Cycling",
+      "interval_summary": [
+        "1x 21m15s 99bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1275s@99bpm",
+          "duration_secs": 1275,
+          "avg_hr": 99,
+          "max_hr": 127,
+          "zone": 1
+        }
+      ]
     }
   ]
 }
