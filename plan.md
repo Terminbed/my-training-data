@@ -1,8 +1,4 @@
 # Training Block – Threshold Durability (6 Weeks)
-
-## Athlete
-FTP: 285 W
-
 ---
 
 # CORE OBJECTIVE
